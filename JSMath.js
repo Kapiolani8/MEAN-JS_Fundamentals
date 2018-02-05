@@ -54,3 +54,4 @@ console.log(isEven(num));
 console.log(howManyEven(arr));
 console.log(createDummyArray(n));
 console.log(randomChoice(arr));
+
